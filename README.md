@@ -1,6 +1,6 @@
 🚀 QuickToolbox
 
-QuickToolbox is login-free web application that provides a collection of handy utilities for developers, students, and general users. Perform common file, image, text, and data transformations quickly — all in one place, with no authentication or database needed.
+QuickToolbox is login-free web application that provides a collection of handy utilities for developers, students, and general users. 
 
 🧰 A collection of tools such as:
 - ✅ **File Resizer** — Resize image files (JPG, PNG, WebP, etc.)
@@ -15,9 +15,6 @@ QuickToolbox is login-free web application that provides a collection of handy u
 - 🔐 **Simple File Encryptor/Decryptor**
 - 🎨 **Color Picker / Palette Generator**
 - 🔢 **UUID Generator**
-## Expanding the ESLint configuration
-
-> No login. No database. Just useful tools at your fingertips.
 
 ---
 
@@ -40,19 +37,19 @@ QuickToolbox is login-free web application that provides a collection of handy u
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/your-username/quicktoolbox.git
+git clone https://github.com/ramji023/quicktoolbox.git
 cd quicktoolbox
 ```
 ### 2️⃣ Install Dependencies
 
 Backend:
 ```bash
-cd backend
+cd server
 npm install
 ```
 Frontend:
 ```bash
-cd ../frontend
+cd ../client
 npm install
 ```
 ### 3️⃣ Start the App
