@@ -31,7 +31,7 @@ export default function sidebar() {
     <div className='h-screen w-72 border-r border-gray-200 shadow-md flex bg-gray-50 flex-col   pt-4'>
 
       <div className='flex justify-end px-4'>
-        <button>        <img src={open_pane} alt="" className='w-6 h-6 ' />
+        <button>        <img src={open_pane} alt="" className='w-8 h-8 ' />
         </button>
 
       </div>
