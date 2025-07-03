@@ -27,6 +27,8 @@ export default function sidebar() {
 
   }
 
+  const panel ={}
+
   return (
     <div className='h-screen w-72 border-r border-gray-200 shadow-md flex bg-gray-50 flex-col   pt-4'>
 
